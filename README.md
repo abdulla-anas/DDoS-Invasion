@@ -1,17 +1,11 @@
 # DDoS-Invasion
 
-# The characteristics of DDoS attack, i.e.,
-# having different appearance with different
-# scenarios, make it difficult to detect. This
-# paper will review and analyze different
-# existing DDoS detecting techniques
-# against different parameters, discusses
-# their advantage and disadvantages, and
-# propose a hybrid statistical model that
-# could significantly mitigate these attacks
-# and be a better alternative solution for
-# current detection problems, hence the
-# Evaluaion of DDoS came ahead.
+**The characteristics of DDoS attack, i.e., having different appearance with different
+scenarios, make it difficult to detect. This paper will review and analyze different
+existing DDoS detecting techniques against different parameters, discusses
+their advantage and disadvantages, and propose a hybrid statistical model that
+could significantly mitigate these attacks and be a better alternative solution for
+current detection problems, hence the Evaluaion of DDoS came ahead.**
 
 
 
